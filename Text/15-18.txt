@@ -1,0 +1,54 @@
+<!-- Q1 -->
+<!DOCTYPE html>
+<html>
+
+<head></head>
+
+<body>
+    <table width="100%" border="1">
+        <caption>Members Data</caption>
+        <thead>
+            <tr>
+                <th>Group</th>
+                <th>Avatar</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Character</th>
+                <th>Profile</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan="2">Ninja</td>
+                <td><img src="https://via.placeholder.com/40x/F00" alt=""></td>
+                <td>Ahmed Shady</td>
+                <td>k1@nn.com
+                    <hr>k2@nn.com
+                </td>
+                <td>&copy;</td>
+                <td><a href="https://elzero.org/" target="_blank">Osama Elzero</a></td>
+            </tr>
+            <tr>
+                <td><img src="https://via.placeholder.com/40x/00F" alt=""></td>
+                <td>Mohammed Ahmed</td>
+                <td>m1@nn.com</td>
+                <td>&trade; </td>
+                <td><a href="https://www.google.com/?hl=ar" target="_blank">Google</a></td>
+            </tr>
+            <tr>
+                <td>Monsters</td>
+                <td><img src="https://via.placeholder.com/40x/000" alt=""></td>
+                <td>Khaled Adel</td>
+                <td>ka4@nn.com</td>
+                <td>&reg;</td>
+                <td><a href="https://www.w3schools.com/" target="_blank">W3Schools</a></td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <td colspan="5">Total Members</td>
+            <td>3</td>
+        </tfoot>
+    </table>
+</body>
+
+</html>
