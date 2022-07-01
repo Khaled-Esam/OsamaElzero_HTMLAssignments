@@ -1,0 +1,132 @@
+<!-- Q1 -->
+<!--
+Header => Yes
+Nav => Yes
+Main => Yes
+Aside => Yes
+Picture => Yes
+Figure => Yes
+Footer => Yes
+FigCaption => Yes
+Section => Yes
+Command => No
+Ruby => Yes
+Data => Yes
+Article => Yes
+Install => No
+Text => No
+-->
+<!-- Q2 -->
+<!DOCTYPE html>
+<html>
+
+<head></head>
+
+<body>
+    <header>
+        <h1>Gaza Company</h1>
+        <ul>
+            <li><a href="">link1</a></li>
+            <li><a href="">link2</a></li>
+            <li><a href="">link3</a></li>
+            <li><a href="">link4</a></li>
+            <li><a href="">link5</a></li>
+        </ul>
+    </header>
+    <hr>
+    <nav>
+        <li><a href="">One</a></li>
+        <li><a href="">Two</a></li>
+        <li><a href="">Three</a></li>
+        <li><a href="">Four</a></li>
+        <li><a href="">Five</a></li>
+        <li><a href="">Six</a></li>
+    </nav>
+    <hr>
+    <section>
+        <article>
+            <h3>Article 1</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi laborum a totam suscipit consequatur.
+                Soluta at, quis, dolore eos facere illum alias est numquam unde tenetur iusto rerum ratione debitis.
+
+            </p>
+            <figure>
+                <img src="https://via.placeholder.com/400x300/F00" alt="">
+                <figcaption>Image 1</figcaption>
+            </figure>
+        </article>
+        <hr>
+        <article>
+            <h3>Article 2</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi laborum a totam suscipit consequatur.
+                Soluta at, quis, dolore eos facere illum alias est numquam unde tenetur iusto rerum ratione debitis.
+
+            </p>
+            <figure>
+                <img src="https://via.placeholder.com/400x300/0F0" alt="">
+                <figcaption>Image 2</figcaption>
+            </figure>
+        </article>
+        <hr>
+        <article>
+            <h3>Article 3</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi laborum a totam suscipit consequatur.
+                Soluta at, quis, dolore eos facere illum alias est numquam unde tenetur iusto rerum ratione debitis.
+
+            </p>
+            <figure>
+                <img src="https://via.placeholder.com/400x300/00F" alt="">
+                <figcaption>Image 3</figcaption>
+            </figure>
+        </article>
+    </section>
+    <aside>
+        <h2>Categories</h2>
+        <ul>
+            <li><a href="">Cat1</a></li>
+            <li><a href="">Cat2</a></li>
+            <li><a href="">Cat3</a></li>
+            <li><a href="">Cat4</a></li>
+            <li><a href="">Cat5</a></li>
+        </ul>
+    </aside>
+    <hr>
+    <footer>
+        &copy; copyright 2022
+    </footer>
+</body>
+
+</html>
+
+<!-- Q3 -->
+<!DOCTYPE html>
+<html>
+
+<head></head>
+
+<body>
+    <audio controls autoplay loop>
+        <source src="https://server6.mp3quran.net/abkr/001.mp3" type="audio/mpeg">
+        <source src="https://server6.mp3quran.net/abkr/001.wav" type="audio/wav">
+        <source src="https://server6.mp3quran.net/abkr/001.oga" type="audio/ogg">
+        This browser does not support audio
+    </audio>
+</body>
+
+<!-- Q4 -->
+<!DOCTYPE html>
+<html>
+
+<head></head>
+
+<body>
+    <video controls width="500" height="400" autoplay muted poster="https://via.placeholder.com/600x250/F00">
+        <source src="https://www.filemagic.com/videos/FileMagic_Explainer_en.webm" type="video/webm">
+        <source src="https://www.filemagic.com/videos/FileMagic_Explainer_en.mp4" type="video/mp4">
+        <source src="https://www.filemagic.com/videos/FileMagic_Explainer_en.ogv" type="video/ogg">
+        <source src="https://youtu.be/GX7W79xijOY.ogv" type="video/ogg">
+        This browser does not support video
+        <track src="mm.vtt" kind="subtitles" srclang="en" label="English">
+        <track src="ss.vtt" kind="subtitles" srclang="ar" label="Arabic">
+    </video>
+</body>

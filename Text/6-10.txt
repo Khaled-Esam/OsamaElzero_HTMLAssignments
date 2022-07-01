@@ -1,29 +1,30 @@
 <!-- Q1 -->
-<!-- Type Question 1 Answer Below -->
-"<!Doctype html>"\
+<!--
+Type Question 1 Answer Below 
+"!Doctype html"
 
-<!-- Type Question 2 Answer Below -->
+Type Question 2 Answer Below 
 "Quirks Mode"
 
-<!-- Type Question 3 Answer Below -->
+ Type Question 3 Answer Below 
 "NO"
 
-<!-- Type Question 4 Answer Below -->
+ Type Question 4 Answer Below 
 "NO"
 
-<!-- Type Question 5 Answer Below -->
+ Type Question 5 Answer Below 
 "Headings in the page starting with top level h1 to h6"
 
-<!-- Q2 -->
-NO , all the same
+ Q2 
+NO, all the same
 
-<!-- Q3 -->
-NO , both are have two attributes (class with content "element" & hidden)
+ Q3 
+NO, both are have two attributes (class with content element & hidden)
 
-<!-- Q4 -->
+ Q4 
 Yes
 
-<!-- Q5 -->
+ Q5 
 title    => Yes
 href     => No
 src      => No
@@ -32,34 +33,47 @@ charset  => No
 class    => Yes
 id       => Yes
 type     => No
+-->
 
 <!-- Q6 -->
 <!Doctype html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta name="description" content="Welcome to Gaza Store">
 
-    </head>
-    <body>
-        <h1>Gaza Store</h1>
-        <p>This the best store to sell the clothes and shoes in the arab world</p>
-        <h2>STORE PARTS</h2><hr>
-        <h3>CLOTHES PART</h3><hr>
-            <h4>FENDI BRAND</h4>
-            <p>This is fendi brand<p><hr>
-            <h4>BURBERRY BRAND</h4>
-            <p>This is burberry brand</p><hr>
-            <h4>HERMES BRAND</h4>
-            <p>This is hermes brand<p><hr>
-        <h3>SHOES PART</h3><hr>
-            <h4>ADIDAS BRAND</h4>
-            <p>This is adidas brand</p><hr>
-            <h4>NIKE BRAND</h4>
-            <p>This is nike brand</p><hr>
-            <h4>BETA BRAND</h4>
-            <p>This is bita brand</p>
-        
-    </body>
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="Welcome to Gaza Store">
+
+</head>
+
+<body>
+    <h1>Gaza Store</h1>
+    <p>This the best store to sell the clothes and shoes in the arab world</p>
+    <h2>STORE PARTS</h2>
+    <hr>
+    <h3>CLOTHES PART</h3>
+    <hr>
+    <h4>FENDI BRAND</h4>
+    <p>This is fendi brand
+    <p>
+        <hr>
+    <h4>BURBERRY BRAND</h4>
+    <p>This is burberry brand</p>
+    <hr>
+    <h4>HERMES BRAND</h4>
+    <p>This is hermes brand
+    <p>
+        <hr>
+    <h3>SHOES PART</h3>
+    <hr>
+    <h4>ADIDAS BRAND</h4>
+    <p>This is adidas brand</p>
+    <hr>
+    <h4>NIKE BRAND</h4>
+    <p>This is nike brand</p>
+    <hr>
+    <h4>BETA BRAND</h4>
+    <p>This is bita brand</p>
+
+</body>
+
 </html>
-
