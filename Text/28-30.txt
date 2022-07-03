@@ -52,7 +52,7 @@
         <div>
             <hr>
             <label for="version">Choose Version : </label>
-            <select name="version" id="version" multiple>
+            <select name="version" id="version">
                 <optgroup label="PHP">
                     <option value="V5.0">V5.0</option>
                     <option value="V7.0">V7.0</option>
