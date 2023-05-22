@@ -39,5 +39,6 @@ Question 04 => No
     <!-- Tells a search engine to index a page and follow the links -->
     <meta name="robots" content="index , follow">
 </head>
-
+<footer>
+</footer>
 </html>
